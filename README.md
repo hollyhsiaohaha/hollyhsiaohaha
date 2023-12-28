@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollyhsiaohaha&label=Profile%20views&color=0e75b6&style=flat" alt="hollyhsiaohaha" /> </p>
 
-- 🔭 I’m currently working on [Appworks School](https://school.appworks.tw) as a Back-End Engineer
+- 🔭 I’m currently working in [Appworks School](https://school.appworks.tw) as a Back-End Engineer
 
 
 ## 🛠️ **Languages and Tools:**
